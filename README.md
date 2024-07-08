@@ -10,7 +10,7 @@ This project contains automated tests for the POS Website using Selenium with Ja
 ## Setup Instructions
 
 ### Prerequisites
-- Java Development Kit (JDK) installed 11 or higher
+- Java Development Kit (JDK) installed 21
 - Maven installed
 - IDE (Eclipse, IntelliJ IDEA, etc.) installed
 
@@ -65,4 +65,6 @@ allure serve target/allure-results
  - resources/
    - Data/
    - locators.json
+  
+   
 
