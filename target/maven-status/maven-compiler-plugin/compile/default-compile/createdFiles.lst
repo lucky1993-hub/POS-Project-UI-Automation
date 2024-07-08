@@ -1,0 +1,8 @@
+org/example/Main.class
+Base/BaseTest.class
+Pages/ParcelPage.class
+Pages/InsurancePage.class
+Pages/HomePage.class
+Pages/EConsignmentNotePage.class
+utils/JsonReader.class
+Base/BasePage.class

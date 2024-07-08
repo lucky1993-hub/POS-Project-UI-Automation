@@ -1,0 +1,8 @@
+{
+  "HomePage": {
+    "insuranceButton": "//span[contains(text(),'Buy')]",
+    "sendMenu": "(//span[contains(text(),'Send ')])[2]",
+    "adCloseButtons": "//div[@class='icon-close']"
+  }
+
+}
