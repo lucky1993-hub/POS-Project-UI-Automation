@@ -22,7 +22,7 @@ This project contains automated tests for the POS Website using Selenium with Ja
 ### Getting Started
 
 1. **Clone the Repository:**
-    - git clone https://github.com/your-username/repository-name.git](https://github.com/lucky1993-hub/Pos-Automation.git
+    - git clone https://github.com/lucky1993-hub/POS-Project-UI-Automation.git
     - cd POS-System
 
 ### Set Up Project:
