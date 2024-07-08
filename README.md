@@ -47,7 +47,7 @@ Resolve dependencies using Maven (pom.xml).
 Allure Reporting:
 
 Generate Allure reports:
-allure serve target/allure-results
+- allure serve target/allure-results
 
 ## Project Structure:
 
