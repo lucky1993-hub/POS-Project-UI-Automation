@@ -33,7 +33,8 @@ Resolve dependencies using Maven (pom.xml).
 ### Running Tests:
 
 1. Run tests using TestNG:
-2. Run all tests: Right-click on testng.xml and select "Run".
+2. Run all tests:   - ByInsuranceTest
+                    - eConsignmentTestand select "Run".
 3. Run individual test classes.
 
 ### Reporting:
@@ -61,7 +62,8 @@ allure serve target/allure-results
  - Test/
      - java/
      - Test/
-         - HomePageTest.java
+         - ByInsuranceTest
+         - eConsignmentTest
  - resources/
    - Data/
    - locators.json
