@@ -23,7 +23,10 @@ This project contains automated tests for the POS Website using Selenium with Ja
 
 1. **Clone the Repository:**
     - git clone https://github.com/lucky1993-hub/POS-Project-UI-Automation.git
+2. Navigate to the project directory:
     - cd POS-System
+3. Install the dependencies
+   - mvn clean install
 
 ### Set Up Project:
 
@@ -32,12 +35,13 @@ Resolve dependencies using Maven (pom.xml).
 
 ### Running Tests:
 
-1. Run tests using TestNG:
+1. Run tests using TestNG or used the following command
+   - mvn test
 2. Run all tests: select "Run".
    - ByInsuranceTest
    - eConsignmentTestand
    
-4. Run individual test classes.
+3. Run individual test classes.
 
 ### Reporting:
 Allure Reporting:
