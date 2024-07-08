@@ -39,7 +39,7 @@ Resolve dependencies using Maven (pom.xml).
    - mvn test
 2. Run all tests: select "Run".
    - ByInsuranceTest
-   - eConsignmentTestand
+   - eConsignmentTest
    
 3. Run individual test classes.
 
