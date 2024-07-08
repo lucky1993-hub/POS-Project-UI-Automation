@@ -33,10 +33,10 @@ Resolve dependencies using Maven (pom.xml).
 ### Running Tests:
 
 1. Run tests using TestNG:
-2. Run all tests:
+2. Run all tests: select "Run".
    - ByInsuranceTest
    - eConsignmentTestand
-   select "Run".
+   
 4. Run individual test classes.
 
 ### Reporting:
